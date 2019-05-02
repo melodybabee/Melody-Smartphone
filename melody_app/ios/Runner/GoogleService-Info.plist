@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1017960238494-no5sqqupg4j0dq447e8ssnk3ul6ogdas.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1017960238494-no5sqqupg4j0dq447e8ssnk3ul6ogdas</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA84H0bu2Dg7LisqlN2jK0arsI-dK86GPE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1017960238494</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.melodyApp</string>
+	<key>PROJECT_ID</key>
+	<string>neu-winter2019</string>
+	<key>STORAGE_BUCKET</key>
+	<string>neu-winter2019.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1017960238494:ios:2749a6631c68a122</string>
+	<key>DATABASE_URL</key>
+	<string>https://neu-winter2019.firebaseio.com</string>
+</dict>
+</plist>
